@@ -1,0 +1,5 @@
+window_id,epoch_id,epoch_window_index,epoch_window_count,node_id,assigned_shard_count,assigned_sample_count,samples_processed,effective_throughput,local_inventory_count,cache_hit_rate,shards_pulled_total,bytes_transferred_total,prefetch_wait_s_total,transfer_retry_count
+0,0,0,2,decentr-15,3,1536,1536,11.12844655418751,48,1.0,0,0,0.0,0
+1,0,1,2,decentr-15,2,1024,1024,9.538202229814004,48,1.0,0,0,0.005617732007522136,0
+2,1,0,2,decentr-15,1,512,512,6.327877435163078,48,1.0,0,0,0.005617732007522136,0
+3,1,1,2,decentr-15,1,512,512,3.7172409969463778,48,1.0,0,0,0.010781918012071401,0
